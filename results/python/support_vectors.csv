@@ -1,0 +1,4 @@
+kernel,mean,min,max
+Linear,49.01,25,97
+RBF,58.98,40,159
+Polynomial,73.23,63,83
