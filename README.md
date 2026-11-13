@@ -4,6 +4,7 @@ This repository contains the bachelor's thesis **"Support Vector Machines per il
 
 The thesis is written in Italian. The code and this README are in English.
 
+
 ## Overview
 
 The thesis has two parts:
